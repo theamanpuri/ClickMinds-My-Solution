@@ -1,5 +1,5 @@
 /******************************************************************************
-
+Answer :-
 I have understood this problem excellently. Well, in this problem, its clear that marks less than 28 would be 
 considered as Fail because even rounding up till 29 will not work, because 30 is the passing marks.
 I have properly tested the below code, and its working perfectly.
@@ -10,6 +10,7 @@ I have properly tested the below code, and its working perfectly.
 using namespace std;
 
 int main()
+    
 {
     int tests, students, j, i;
     cin>>tests>>students;
@@ -49,3 +50,6 @@ int main()
         }     
     return 0;
 }
+
+    
+    
