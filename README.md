@@ -3,7 +3,7 @@
 Answer :-
 
 I have understood this problem excellently. Well, in this problem, its clear that marks less than 28 would be 
-considered as Fail because even rounding up till 29 will not work, because 30 is the passing marks.
+considered as Fail because even rounding up till 29 will not work, because 30 are the passing marks.
 I have properly tested the below code, and its working perfectly.
 
 *******************************************************************************/
