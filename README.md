@@ -1,5 +1,12 @@
 /******************************************************************************
 
+
+Question :-
+
+Write your explanation about you understanding of this problem and then write code
+
+
+
 Answer :-
 
 I have understood this problem excellently. Well, in this problem, its clear that marks less than 28 would be 
