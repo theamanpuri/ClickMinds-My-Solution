@@ -5,6 +5,7 @@ considered as Fail because even rounding up till 29 will not work, because 30 is
 I have properly tested the below code, and its working perfectly.
 
 *******************************************************************************/
+
 #include <iostream>
 
 using namespace std;
@@ -12,6 +13,7 @@ using namespace std;
 int main()
     
 {
+
     int tests, students, j, i;
     cin>>tests>>students;
     int arr[students];
